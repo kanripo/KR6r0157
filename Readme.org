@@ -1,10 +1,12 @@
-#+TITLE: 善女人傳 / CBETA
+#+TITLE: no title given / WYG
 
-#+DATE: 2015-08-30 22:29:19.939899
+#+DATE: 2015-08-30 22:29:27.081635
 * 版本
  |     CBETA|【電子佛典集成】|
  |       WYG|【四部全書・文淵閣】|
  |         X|【卍續】    |
 目次
- - [[file:KR6r0157_001.txt][善女人傳 1]]
- - [[file:KR6r0157_002.txt][善女人傳 2]]
+ - [[file:KR6r0157_000.txt][no title given 0]]
+ - [[file:KR6r0157_001.txt][no title given 1]]
+ - [[file:KR6r0157_002.txt][no title given 2]]
+ - [[file:KR6r0157_003.txt][no title given 3]]
